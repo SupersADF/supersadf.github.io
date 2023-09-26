@@ -1,9 +1,9 @@
 {
   "name": "MPU",
   "maintainer": "Supers",
-  "changes": "fix: database",
-  "version": "0.2",
+  "changes": "add: Renault Duster 2015-2021",
+  "version": "0.3",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "21ca5527dd9f5281bc7ade5d3c07c93e"
+  "checksum": "7cfafb71d6ae3058418a32a9247f3f80"
 }
