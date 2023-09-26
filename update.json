@@ -1,9 +1,9 @@
 {
   "name": "MPU",
   "maintainer": "Supers",
-  "changes": "add: Renault Duster 2015-2021",
-  "version": "0.3",
+  "changes": "add: Uaz Patriot 2022",
+  "version": "0.4",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "7cfafb71d6ae3058418a32a9247f3f80"
+  "checksum": "7007658ca0febb87310f4e0c7002517a"
 }
