@@ -1,9 +1,9 @@
 {
   "name": "MPU",
   "maintainer": "Supers",
-  "email": "",
-  "version": "0.1",
+  "changes": "add: Lada Largus 2021+, Vesta 2018+, X-Ray 2016+",
+  "version": "0.2",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "5a5b4422d36c131069498bbcc119a2c0"
+  "checksum": "f615f796e39807c95aa430a60dcd8d71"
 }
