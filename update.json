@@ -1,9 +1,9 @@
 {
   "name": "MPU",
   "maintainer": "Supers",
-  "changes": "add: Uaz Patriot 2022",
-  "version": "0.4",
+  "changes": "fix: Moskvich 3 2023",
+  "version": "0.5",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "7007658ca0febb87310f4e0c7002517a"
+  "checksum": "ff3b1ee5b0a8736083e5bec1fd0d04d3"
 }
