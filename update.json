@@ -1,9 +1,9 @@
 {
   "name": "MPU",
   "maintainer": "Supers",
-  "changes": "fix: Moskvich 3 2023",
-  "version": "0.5",
+  "changes": "add: SITRAK SINOTRUCK_C7H 2023, FAW J7H 2023, DONGFENG DFH4180 2023",
+  "version": "0.6",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "ff3b1ee5b0a8736083e5bec1fd0d04d3"
+  "checksum": "292c7e38eda87c7f3a442a9a48a8a8dc"
 }
