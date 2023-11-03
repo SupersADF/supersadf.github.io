@@ -1,9 +1,9 @@
 {
   "name": "MPU",
   "maintainer": "Supers",
-  "changes": "add: SITRAK SINOTRUCK_C7H 2023, FAW J7H 2023, DONGFENG DFH4180 2023",
-  "version": "0.6",
+  "changes": "add: 20+ vehicle",
+  "version": "0.7",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "292c7e38eda87c7f3a442a9a48a8a8dc"
+  "checksum": "4af61c3860a7e85c8875b3b837163b77"
 }
