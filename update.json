@@ -1,9 +1,9 @@
 {
   "name": "MPU",
   "maintainer": "Supers",
-  "changes": "add: hotfix",
-  "version": "0.7",
+  "changes": "add: fix L200",
+  "version": "0.8",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "0cee4e204fef55d2dc727d0a7e741c04"
+  "checksum": "c14821f2543087da1211249112a4f9ab"
 }
