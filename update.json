@@ -1,9 +1,9 @@
 {
   "name": "MPU",
   "maintainer": "Supers",
-  "changes": "fix: FORD MONDEO 2015+",
-  "version": "0.92",
+  "changes": "fix: LADA Kalina 2014",
+  "version": "0.93",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "f6dbdc522b8cf3a2113972ffb4d6821b"
+  "checksum": "036a0d699af842a2ce62277b3f766789"
 }
