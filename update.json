@@ -1,9 +1,9 @@
 {
   "name": "MPU",
   "maintainer": "Supers",
-  "changes": "fix: FORD TRANSIT(RUSSIAN_MARKET) 2014",
-  "version": "0.91",
+  "changes": "fix: FORD MONDEO 2015+",
+  "version": "0.92",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "3af2188f586b0ebd8385244d7e158dc8"
+  "checksum": "dbad154fa2f835d65cc72bb6167165f7"
 }
