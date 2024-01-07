@@ -1,9 +1,18 @@
 {
-  "name": "MPU",
+  "name": "Database",
   "maintainer": "Supers",
   "changes": "fix: LADA Kalina 2014",
   "version": "0.93",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
   "checksum": "036a0d699af842a2ce62277b3f766789"
+}
+{
+  "name": "Software_mcu",
+  "maintainer": "Supers",
+  "changes": "feat: first release",
+  "version": "0.6",
+  "url": "https://supersadf.github.io/mcu_update.frv",
+  "fileName": "mcu_update.frv",
+  "checksum": "1FDC243B085BDA792CD586894BEF36FD"
 }
