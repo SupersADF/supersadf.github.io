@@ -1,9 +1,9 @@
 {
   "name": "Database",
   "maintainer": "Supers",
-  "changes": "fix: LADA Kalina 2014",
-  "version": "0.93",
+  "changes": "feat: add pgn",
+  "version": "1.0",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "036a0d699af842a2ce62277b3f766789"
+  "checksum": "f3bc93b3c1eef4a73578b865432ffc94"
 }
