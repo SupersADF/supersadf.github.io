@@ -1,9 +1,9 @@
 {
   "name": "Database",
   "maintainer": "Supers",
-  "changes": "feat: add pgn",
-  "version": "1.0",
+  "changes": "fix: GAZ, GAZEL, GAZON",
+  "version": "1.01",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "f3bc93b3c1eef4a73578b865432ffc94"
+  "checksum": "50f9107bf760c1c5a1498f219c97b970"
 }
