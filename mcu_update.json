@@ -1,9 +1,9 @@
 {
   "name": "Software_mcu",
   "maintainer": "Supers",
-  "changes": "feat: first release",
-  "version": "0.6",
+  "changes": "fix errors",
+  "version": "0.7",
   "url": "https://supersadf.github.io/mcu_update.frv",
   "fileName": "mcu_update.frv",
-  "checksum": "1FDC243B085BDA792CD586894BEF36FD"
+  "checksum": "73c366283c84b84000f303504ebac12d"
 }
