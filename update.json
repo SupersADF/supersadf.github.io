@@ -1,9 +1,9 @@
 {
   "name": "Database",
   "maintainer": "Supers",
-  "changes": "fix errors, add new vehicle",
+  "changes": "fix errors",
   "version": "1.02",
   "url": "https://supersadf.github.io/database.lls",
   "fileName": "database.lls",
-  "checksum": "b9fdf2303fa8c951e4968f1fbf5276fd"
+  "checksum": "1be41cbcd3160d5f88c57be27ad13456"
 }
